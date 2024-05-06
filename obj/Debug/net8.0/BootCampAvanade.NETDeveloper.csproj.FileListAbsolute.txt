@@ -1,0 +1,14 @@
+D:\BootCampAvanade.NETDeveloper\bin\Debug\net8.0\BootCampAvanade.NETDeveloper.exe
+D:\BootCampAvanade.NETDeveloper\bin\Debug\net8.0\BootCampAvanade.NETDeveloper.deps.json
+D:\BootCampAvanade.NETDeveloper\bin\Debug\net8.0\BootCampAvanade.NETDeveloper.runtimeconfig.json
+D:\BootCampAvanade.NETDeveloper\bin\Debug\net8.0\BootCampAvanade.NETDeveloper.dll
+D:\BootCampAvanade.NETDeveloper\bin\Debug\net8.0\BootCampAvanade.NETDeveloper.pdb
+D:\BootCampAvanade.NETDeveloper\obj\Debug\net8.0\BootCampAvanade.NETDeveloper.GeneratedMSBuildEditorConfig.editorconfig
+D:\BootCampAvanade.NETDeveloper\obj\Debug\net8.0\BootCampAvanade.NETDeveloper.AssemblyInfoInputs.cache
+D:\BootCampAvanade.NETDeveloper\obj\Debug\net8.0\BootCampAvanade.NETDeveloper.AssemblyInfo.cs
+D:\BootCampAvanade.NETDeveloper\obj\Debug\net8.0\BootCampAvanade.NETDeveloper.csproj.CoreCompileInputs.cache
+D:\BootCampAvanade.NETDeveloper\obj\Debug\net8.0\BootCampAvanade.NETDeveloper.dll
+D:\BootCampAvanade.NETDeveloper\obj\Debug\net8.0\refint\BootCampAvanade.NETDeveloper.dll
+D:\BootCampAvanade.NETDeveloper\obj\Debug\net8.0\BootCampAvanade.NETDeveloper.pdb
+D:\BootCampAvanade.NETDeveloper\obj\Debug\net8.0\BootCampAvanade.NETDeveloper.genruntimeconfig.cache
+D:\BootCampAvanade.NETDeveloper\obj\Debug\net8.0\ref\BootCampAvanade.NETDeveloper.dll

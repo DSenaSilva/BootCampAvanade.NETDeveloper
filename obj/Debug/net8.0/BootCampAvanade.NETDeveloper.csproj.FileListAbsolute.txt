@@ -12,3 +12,4 @@ D:\BootCampAvanade.NETDeveloper\obj\Debug\net8.0\refint\BootCampAvanade.NETDevel
 D:\BootCampAvanade.NETDeveloper\obj\Debug\net8.0\BootCampAvanade.NETDeveloper.pdb
 D:\BootCampAvanade.NETDeveloper\obj\Debug\net8.0\BootCampAvanade.NETDeveloper.genruntimeconfig.cache
 D:\BootCampAvanade.NETDeveloper\obj\Debug\net8.0\ref\BootCampAvanade.NETDeveloper.dll
+D:\BootCampAvanade.NETDeveloper\obj\Debug\net8.0\BootCampAvanade.NETDeveloper.sourcelink.json
